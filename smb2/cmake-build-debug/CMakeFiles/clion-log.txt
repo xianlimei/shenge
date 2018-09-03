@@ -1,0 +1,4 @@
+/home/ted/ted/clion/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ted/projects/smb1/smb2_analyse-master/program/smb2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug

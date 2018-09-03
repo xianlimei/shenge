@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="proxyserver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proxyserver">
+				<Option output="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/proxyserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 proxyserver"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proxyserver/fast">
+				<Option output="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/proxyserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 proxyserver/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/fname_decode.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/fname_decode.h">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/proxyserver1.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/short_name_list.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/short_name_list.h">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/smb2Name.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/smb2Name.h">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/smb2tools.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/smb2tools.h">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/smb_session_list.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/smb_session_list.h">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/unicode2utf8.c">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/unicode2utf8.h">
+			<Option target="proxyserver"/>
+		</Unit>
+		<Unit filename="/home/ted/projects/smb1/smb2_analyse-master/program/smb2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,141 @@
+reset
+mid is 0x 6a 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 6b 
+read command data offset is 80  bytes
+read command data length is 30428  bytes
+
+mid is 0x 6c 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 73 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 74 
+read command data offset is 80  bytes
+read command data length is 31122  bytes
+
+mid is 0x 75 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 88 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 89 
+read command data offset is 80  bytes
+read command data length is 30428  bytes
+
+mid is 0x 8a 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 91 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 92 
+read command data offset is 80  bytes
+read command data length is 30428  bytes
+
+mid is 0x 93 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x 98 
+read command data offset is 80  bytes
+read command data length is 524288  bytes
+
+mid is 0x a0 
+read command data offset is 80  bytes
+read command data length is 524288  bytes
+
+mid is 0x a8 
+read command data offset is 80  bytes
+read command data length is 524288  bytes
+
+mid is 0x b0 
+read command data offset is 80  bytes
+read command data length is 524288  bytes
+
+mid is 0x b8 
+read command data offset is 80  bytes
+read command data length is 524288  bytes
+
+mid is 0x c0 
+read command data offset is 80  bytes
+read command data length is 218844  bytes
+
+mid is 0x c7 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x c8 
+read command data offset is 80  bytes
+read command data length is 31122  bytes
+
+mid is 0x c9 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x d0 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x d1 
+read command data offset is 80  bytes
+read command data length is 31122  bytes
+
+mid is 0x d2 
+read command data offset is 80  bytes
+read command data length is 32768  bytes
+
+mid is 0x d6 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x e6 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x f6 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 106 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 116 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 126 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 136 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 146 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 156 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 166 
+read command data offset is 80  bytes
+read command data length is 1048576  bytes
+
+mid is 0x 176 
+read command data offset is 80  bytes
+read command data length is 977298  bytes
+

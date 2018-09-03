@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/proxyserver.dir/smb2Name.c.o CMakeFiles/proxyserver.dir/smb2tools.c.o CMakeFiles/proxyserver.dir/short_name_list.c.o CMakeFiles/proxyserver.dir/proxyserver1.c.o CMakeFiles/proxyserver.dir/smb_session_list.c.o CMakeFiles/proxyserver.dir/unicode2utf8.c.o CMakeFiles/proxyserver.dir/fname_decode.c.o  -o proxyserver -lpthread 

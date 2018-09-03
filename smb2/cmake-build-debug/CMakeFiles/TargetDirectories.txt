@@ -1,0 +1,3 @@
+/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ted/projects/smb1/smb2_analyse-master/program/smb2/cmake-build-debug/CMakeFiles/proxyserver.dir
